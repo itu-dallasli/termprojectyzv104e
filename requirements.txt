@@ -1,0 +1,21 @@
+pygame ==2.1.0
+python ==3.11.3
+tkinter
+math
+time
+music.py
+character.py
+hills.png
+houseofwizard.png
+hydra.png
+icon.png
+moredungeon.png
+mountain.png
+startgame.png
+b2.mp3
+arena.png
+goblin.png
+hydra.png
+background.png
+blacksmith.png
+dungeon.png
